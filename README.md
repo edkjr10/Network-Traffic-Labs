@@ -1,5 +1,5 @@
 # Network-Traffic-Labs
-This is a collection of documentation recording the practice of Network Analysis tools such as TCPDump and Wireshark.
+This is a collection of documentation of labs used to deepen the understanding of Network Analysis tool such as TCPDump and Wireshark.
 
 - <b>[Analysing Webpage Traffic with Wireshark](https://github.com/edkjr10/Network-Traffic-Labs/blob/main/Wireshark_Webpage.pdf)</b>
 
